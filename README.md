@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Harish H
+  
 My journey in the tech world began as a full-stack developer, mastering the MERN stack (MongoDB, Express.js, React, Node.js) to develop dynamic and responsive web applications. This strong foundation enriched my perspective when I ventured into blockchain. Today, I'm deeply engaged in creating decentralized applications on Ethereum, designing smart contracts, and developing enterprise-grade solutions with Hyperledger Fabric. My explorations in the blockchain realm have also led me to delve into the world of Polkadot, understanding its potential for cross-chain interoperability and scalable architectures.
 
 Beyond these technologies, I pride myself on my ability to design systems that not only work but scale beautifully and efficiently. With an ever-growing passion, I'm gearing up to delve into Rust in the upcoming months, eager to embrace new challenges and broaden my horizons.
